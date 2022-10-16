@@ -225,6 +225,8 @@ p {                                 /*p*/
 	margin-bottom: 28px;
 }
 .item img {
+	width: 260px;
+	height: 260px;
 	border-radius: 12px 12px 0 0;
 }
 .color_bold {
